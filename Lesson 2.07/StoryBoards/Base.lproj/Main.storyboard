@@ -282,7 +282,7 @@
                         <outletCollection property="multipleSwitches" destination="rtL-aO-iUc" collectionClass="NSMutableArray" id="ANg-da-nMk"/>
                         <outletCollection property="rangedLabels" destination="iKY-TN-R4M" collectionClass="NSMutableArray" id="D0E-T9-eC1"/>
                         <outletCollection property="rangedLabels" destination="f5V-61-1f7" collectionClass="NSMutableArray" id="I7F-VJ-Bgh"/>
-                        <segue destination="Mdg-jY-wjk" kind="show" identifier="showResult" id="JjL-9h-Elg"/>
+                        <segue destination="Mdg-jY-wjk" kind="show" identifier="showResult2" id="JjL-9h-Elg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="n0P-wI-Kim" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

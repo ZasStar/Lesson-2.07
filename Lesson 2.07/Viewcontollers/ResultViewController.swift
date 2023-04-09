@@ -20,6 +20,8 @@ final class ResultViewController: UIViewController {
         super.viewDidLoad()
         
         renewResults()
+        
+        self.navigationItem.setHidesBackButton(true, animated: true)
     }
     
     @IBAction func doneButtonPressed(_ sender: UIBarButtonItem) {

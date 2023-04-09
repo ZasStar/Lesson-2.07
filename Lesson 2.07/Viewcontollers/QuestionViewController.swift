@@ -155,7 +155,8 @@ final class QuestionViewController: UIViewController {
                 return
             }
             
-            performSegue(withIdentifier: "showResult", sender: nil)
+            performSegue(withIdentifier: "showResult2", sender: nil)
+            
         }
         
     }
